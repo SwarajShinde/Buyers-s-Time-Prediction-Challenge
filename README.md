@@ -6,5 +6,5 @@ https://www.machinehack.com/hackathons/buyers_time_prediction_challenge/leaderbo
 Private LB Score : 1.76679
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SwarajShinde/Buyers-s-Time-Prediction-Challenge/blob/main/Screenshot%20(1016).png)
 
